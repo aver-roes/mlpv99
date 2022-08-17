@@ -1,14 +1,14 @@
 
 # 🤖 MLPV99
 
-A simple (Keras like) library for building Multi layer perceptron (for the purpose of learning).
+A simple (Keras-like) library for building Multi-layer perceptron (for the purpose of learning).
 
-The libray is built from scratch using Nerual network math with only vanilla Python &  a little bit of Numpy.
+The library is built from scratch using Neural network math with only vanilla Python &  a little bit of Numpy.
 
-Anyone can use to learning more about how neural network work on a lower level (forward pass and backward pass using backpropagation, with SGD optimizers, activation functions...etc, everything from scratch just math and python)
+Anyone can use to learn more about how neural networks work on a lower level (forward pass and backward pass using backpropagation, with SGD optimizers, activation functions...etc, everything from scratch just math and python)
 
 
-Currently it can be used to build only dense neural networks, but you can add other architectures(CNN, RNN..etc) if you wish after all it's an open source project! anyone is welcome to contribute to the project.
+Currently, it can be used to build only dense neural networks, but you can add other architectures(CNN, RNN..etc) if you wish after all it's an open-source project! anyone is welcome to contribute to the project
 
 
 ## 🧐 Features
