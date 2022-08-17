@@ -1,7 +1,7 @@
 
 # 🤖 MLPV99
 
-A simple (Keras like) libray for building Multilayer Perceptron (for the purpose of learning).
+A simple (Keras like) library for building Multi layer perceptron (for the purpose of learning).
 
 The libray is built from scratch using Nerual network math with only vanilla Python &  a little bit of Numpy.
 
