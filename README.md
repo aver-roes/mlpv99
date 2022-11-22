@@ -22,7 +22,7 @@ Currently, it can be used to build only dense neural networks, but you can add o
 - Forward pass method & backward pass method.
 
 ### Activation Functions
-- RelU: for hidden layers.
+- ReLU: for hidden layers.
 - Sigmoid: for binary classification.
 - Softmax: for multi-class classification.
 - Linear: for regression.
